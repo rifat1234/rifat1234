@@ -10,7 +10,7 @@
 - :computer: Software Developer - AI Trainer [@DataAnnotation](https://www.dataannotation.tech/)
 - :hammer_and_wrench: I build models & apps with: `Python` `SQL`  `R` `PyCharm` `NLP` `LLM` `Streamlit` `Swift` `iOS` ...
 - :framed_picture: My app [Video to Pic](https://apps.apple.com/us/app/video-to-pic/id1478306635) has 7k monthly users and rated 4.8 with 2k ratings
-- ⚡ Fun fact: I worked in a fingerprint reader company and I don't have fingerprints :) 
+- ⚡ Fun fact: I have worked in a fingerprint reader company and I don't have any fingerprints :) 
 - :student: Master's in Data Science
 
 <!--
