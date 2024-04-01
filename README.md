@@ -1,4 +1,17 @@
-### Hi there 👋
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rifatmonzur/)
+[<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://apps.apple.com/us/developer/rifat-monzur/id1478306634)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@rifatmonzur)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/RifatMonzur)
+
+
+
+- :computer: Software Developer - AI Trainer [@DataAnnotation](https://www.dataannotation.tech/)
+- :hammer_and_wrench: I build models & apps with: `Python` `SQL`  `R` `PyCharm` `NLP` `LLM` `Streamlit` `Swift` `iOS` ...
+- :framed_picture: My app [Video to Pic](https://apps.apple.com/us/app/video-to-pic/id1478306635) has 7k monthly users and rated 4.8 with 2k ratings
+- ⚡ Fun fact: I worked in a fingerprint reader company and I don't have fingerprints :) 
+- :student: Master's in Data Science
 
 <!--
 **rifat1234/rifat1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
