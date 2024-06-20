@@ -1,4 +1,4 @@
-
+[**View my resume**](https://drive.google.com/file/d/14ideXR3hHrl6iEMFfpV-KDvj3v4p8ISW/view?usp=sharing)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rifatmonzur/)
 [<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />](https://apps.apple.com/us/developer/rifat-monzur/id1478306634)
